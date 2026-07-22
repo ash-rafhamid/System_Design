@@ -13,5 +13,14 @@ int main(void) {
         // Infinite loop
     }
 
+
+    switch (1) {
+        case 1:
+            printf("Case 1\n");
+            break;
+        default:
+            printf("Default case\n");
+    }
+
     return 0;
 }
